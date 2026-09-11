@@ -38,7 +38,7 @@ The objective was to build a basic cybersecurity virtual lab using VirtualBox an
 
 Oracle VirtualBox was used to create and manage the Kali Linux virtual machine for the cybersecurity lab.
 
-![VirtualBox Setup](screenshots/Screenshot-1-Virtualbox.png)
+![VirtualBox Setup](Screenshot-1-Virtualbox.png)
 
 ---
 
@@ -46,7 +46,7 @@ Oracle VirtualBox was used to create and manage the Kali Linux virtual machine f
 
 A NAT Network named `NatNetwork` was configured in VirtualBox using the required network range.
 
-![Network Settings](screenshots/Screenshot-2-network-settings.png)
+![Network Settings](Screenshot-2-network-settings.png)
 
 ---
 
@@ -54,7 +54,7 @@ A NAT Network named `NatNetwork` was configured in VirtualBox using the required
 
 Kali Linux 2026.2 was configured as the virtual machine for the cybersecurity lab. The VM was allocated 2048 MB of memory.
 
-![Kali Linux](screenshots/Screenshot-3-kali-linux.png)
+![Kali Linux](Screenshot-3-kali-linux.png)
 
 ---
 
@@ -62,7 +62,7 @@ Kali Linux 2026.2 was configured as the virtual machine for the cybersecurity la
 
 The Kali Linux VM was connected to the configured NAT Network and the network settings were configured accordingly.
 
-![Kali Linux Network Settings](screenshots/Screenshot-4-kali-network-settings.png)
+![Kali Linux Network Settings](Screenshot-4-kali-network-settings.png)
 
 ---
 
